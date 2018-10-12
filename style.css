@@ -18,3 +18,9 @@
 #home-section .home-inner {
   padding-top: 150px;
 }
+
+@media (min-width: 1199px) {
+  .port-item {
+    padding: 3rem !important;
+  }
+}
